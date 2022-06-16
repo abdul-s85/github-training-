@@ -3,3 +3,6 @@ Chat option
 emoji 
 colours 
 vibrant
+
+dark mode 
+video calls 
